@@ -1,1 +1,1 @@
-{"token":"MTE5Mjk3MjgwMjM5NjAxMjYxNQ.GTiS2J.x4JLYcTzEL6bBHOyWcDEUTPYHQOwaw88k4MWuY","client":"718495800019124244","tag":"!","case":"false","separator":"\\s+","commandsOrder":["gwedY","dNjuE","FEega"],"eventsOrder":[],"modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true]},"ownerId":"601102983325024272"}
+{"token":"TOKEN","client":"718495800019124244","tag":"!","case":"false","separator":"\\s+","commandsOrder":["gwedY","dNjuE","FEega"],"eventsOrder":[],"modules":{"discord.js":["",true],"fstorm":["",true],"jimp":["",true]},"ownerId":"601102983325024272"}
